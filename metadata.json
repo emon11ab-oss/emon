@@ -1,0 +1,8 @@
+{
+  "name": "Remix: SlipCraft ",
+  "description": "Professional Automatic Delivery Slip Generator for fashion brands and online shops. Features real-time preview, smart branding, and instant printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
